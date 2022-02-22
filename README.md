@@ -1,0 +1,2 @@
+# Responsive Product Detail Page
+ 
